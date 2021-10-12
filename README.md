@@ -4,6 +4,10 @@ This template includes licensing, custom packaging of the module, linting and fo
 
 Replace "TODO" and "todo" across the files to customize everything
 
+## Warning
+
+**Do _NOT_ run `yarn publish` nor `npm publish` in the base directory. Run it in the `dist` folder when the project is compiled instead.**
+
 ## Scripts
 
 _Recommended use of yarn_
