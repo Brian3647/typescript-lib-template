@@ -9,7 +9,7 @@
 		"baseUrl": "lib",
 		"esModuleInterop": true,
 		"lib": ["ES2020"],
-		"declaration": false
+		"declaration": true
 	},
 	"include": ["lib/**/*.ts"],
 	"exclude": ["node_modules", "dist"]
